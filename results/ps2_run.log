@@ -1,0 +1,10 @@
+[p05] dot kernel: test accuracy = 0.5250
+[p05] rbf kernel: test accuracy = 0.9200
+[p06] dictionary size = 1721
+[p06] Naive Bayes test accuracy = 0.9785
+[p06] top 5 spam-indicative words = ['claim', 'won', 'prize', 'tone', 'urgent!']
+[p06] SVM radius=0.01: validation accuracy = 0.9174
+[p06] SVM radius=0.1: validation accuracy = 0.9461
+[p06] SVM radius=1: validation accuracy = 0.9300
+[p06] SVM radius=10: validation accuracy = 0.8761
+[p06] optimal SVM radius = 0.1; test accuracy = 0.9695

@@ -1,0 +1,16 @@
+[p01b] ..\..\data\ps1\ds1_train.csv: validation accuracy = 0.9000
+[p01b] ..\..\data\ps1\ds2_train.csv: validation accuracy = 0.9100
+[p01e] ..\..\data\ps1\ds1_train.csv: validation accuracy = 0.8300
+[p01e] ..\..\data\ps1\ds2_train.csv: validation accuracy = 0.9100
+[p02] alpha estimate = 0.1717
+[p02] test accuracy vs true t:  (c) oracle=0.9839  (d) naive=0.5000  (e) corrected=0.9516
+[p03d] validation corr(true, pred) = 1.0000
+[p05b] tau=0.5: validation MSE = 0.330531
+[p05c] tau=0.03: validation MSE = 0.018096
+[p05c] tau=0.05: validation MSE = 0.012400
+[p05c] tau=0.1: validation MSE = 0.024225
+[p05c] tau=0.5: validation MSE = 0.330531
+[p05c] tau=1.0: validation MSE = 0.400096
+[p05c] tau=10.0: validation MSE = 0.433744
+[p05c] best validation MSE=0.012400 at tau=0.05
+[p05c] test MSE at tau=0.05: 0.016990

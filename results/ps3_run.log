@@ -1,0 +1,21 @@
+[p04] running unsupervised EM, trial 0
+[p04] unsupervised EM: 117 iterations, final log-likelihood=-1835.44
+[p04] running semi-supervised EM, trial 0
+[p04] semi-supervised EM: 19 iterations, final log-likelihood=-2344.61
+[p04] running unsupervised EM, trial 1
+[p04] unsupervised EM: 118 iterations, final log-likelihood=-1835.43
+[p04] running semi-supervised EM, trial 1
+[p04] semi-supervised EM: 23 iterations, final log-likelihood=-2344.61
+[p04] running unsupervised EM, trial 2
+[p04] unsupervised EM: 101 iterations, final log-likelihood=-1835.52
+[p04] running semi-supervised EM, trial 2
+[p04] semi-supervised EM: 19 iterations, final log-likelihood=-2344.61
+[p05] small image shape: (128, 128, 3)
+[p05] running k-means on the small image ...
+[p05] k-means iter 10: max centroid move=4.0489, mean distortion=16.9876
+[p05] k-means iter 20: max centroid move=2.1393, mean distortion=16.8987
+[p05] k-means iter 30: max centroid move=2.5175, mean distortion=16.8395
+[p05] k-means iter 40: max centroid move=1.4405, mean distortion=16.7148
+[p05] k-means iter 50: max centroid move=0.3970, mean distortion=16.6248
+[p05] large image shape: (512, 512, 3)
+[p05] 16 colours -> 4 bits/pixel (vs 24); compression ratio ~ 6.0x
