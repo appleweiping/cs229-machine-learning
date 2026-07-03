@@ -1,0 +1,18 @@
+# Virtual environments
+.venv*/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Per-problem-set scratch output (curated copies live in results/)
+ps*/src/output/
